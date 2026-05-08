@@ -4205,6 +4205,41 @@ td:last-child {
     box-shadow   : 0 1rem 2.4rem rgba(0, 0, 0, 0.06);
 }
 
+.project-lab--featured .project-lab__grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.project-lab__card--media {
+    padding: 1.4rem;
+}
+
+.project-lab__media {
+    overflow     : hidden;
+    border-radius: 1.2rem;
+    margin-bottom: 1.8rem;
+    background   : #dce5ea;
+}
+
+.project-lab__media img {
+    display   : block;
+    width     : 100%;
+    height    : 22rem;
+    object-fit: cover;
+}
+
+.project-lab__media--mosaic {
+    display              : grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap                  : 0.8rem;
+    padding              : 0.8rem;
+    background           : linear-gradient(180deg, #dce5ea 0%, #edf2f4 100%);
+}
+
+.project-lab__media--mosaic img {
+    height       : 18rem;
+    border-radius: 1rem;
+}
+
 .project-lab__meta {
     font-size     : 1.2rem;
     font-weight   : 600;
@@ -4802,6 +4837,7 @@ td:last-child {
     }
 
     .psc-grid,
+    .project-lab--featured .project-lab__grid,
     .project-lab__grid {
         grid-template-columns: 1fr;
     }
@@ -4871,6 +4907,14 @@ td:last-child {
 
     .psc-card__mosaic {
         grid-template-columns: 1fr;
+    }
+
+    .project-lab__media--mosaic {
+        grid-template-columns: 1fr;
+    }
+
+    .project-lab__media--mosaic img {
+        height: 20rem;
     }
 
     .psc-card__body,

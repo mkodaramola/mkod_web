@@ -1,0 +1,65 @@
+
+In the United States, an estimated 1,640 people with asthma die each year. Of these deaths, approximately 10% are attributed to an asthma attack that occurs when the person's inhaler is not available. This means that approximately 164 people die each year in the United States from asthma attacks that could have been prevented if the person had had their inhaler with them.
+
+According to the National Center for Missing and Exploited Children (NCMEC), an average of 2,300 children are reported missing every day in the United States. Of these, about 1,000 are abducted by strangers, and the rest are lost or runaways.
+
+In the United States, an estimated $20 billion worth of valuable materials are lost or misplaced each year.
+The average person misplaces something valuable at least once a year.
+The most commonly misplaced valuable materials are jewelry, electronics, and documents.
+The most common places where valuable materials are misplaced are in the home, at work, and in public places.
+The most common reasons for misplacing valuable materials are forgetfulness, carelessness, and theft.
+
+Our project offers a unique beacon-based solution to prevent separation and loss of personal belongings. Unlike traditional trackers, it operates without requiring mobile internet data, resulting in cost savings. The device is versatile, easily attachable to various items, and provides dual functionality by also acting as a tracker, notifying users when they are near a lost item. With scalability in mind, the project allows for continuous improvement and adaptation to meet evolving needs. It's a reliable and efficient way to safeguard valuables, prevent loss, and provide peace of mind.
+
+1. Beacon to Beacon:
+   - This design involves multiple beacons communicating with each other to determine the distance between them.
+   - Each beacon would emit a Wi-Fi signal that can be detected by nearby beacons.
+   - When two beacons are separated by a certain distance, they can send signals to each other to trigger the vibrating and buzzing alerts.
+   - This design allows for a network of beacons to be set up, creating a broader coverage area.
+
+2. Beacon to Mobile Phone:
+   - In this design, the beacon communicates directly with a mobile phone via a Wi-Fi connection or a dedicated mobile app.
+   - The beacon would emit a signal that can be detected by the mobile phone when they are in proximity to each other.
+   - When the beacon and the phone are separated beyond a specific distance, the phone can receive a signal from the beacon and trigger the alerts, such as vibrating and buzzing.
+
+
+
+
+10 problem-solving scenarios where the device you described could be beneficial:
+
+1. Preventing Loss of Valuables: Attach the beacon to wallets, keys, or other valuable items. If the user moves too far away from them, the device will alert them, reducing the risk of losing important belongings.
+
+2. Ensuring Inhaler Availability: Attach the beacon to an asthma inhaler. If the user moves away from the inhaler and is at risk of forgetting it, the device will notify them, helping to ensure they have their inhaler when needed.
+
+3. Child Monitoring: Attach a beacon to a child's clothing or belongings. If the child wanders off beyond a certain distance, the device will alert the parent's mobile phone, helping them keep track of their child's whereabouts.
+
+4. Pet Tracking: Attach a beacon to a pet's collar. If the pet strays too far, the device will notify the owner's mobile phone, enabling them to locate and retrieve their pet.
+
+5. Preventing Bag Theft: Attach the beacon to a bag or backpack. If the bag is moved or taken without the user's consent, the device will trigger an alert, potentially deterring theft or assisting in recovering the bag.
+
+6. Wandering Elderly Assistance: Attach a beacon to the clothing or personal items of an elderly person prone to wandering. If they move away from a designated safe area, the device will alert their caregiver, allowing for quick response and assistance.
+
+7. Equipment Monitoring: Attach beacons to tools or equipment on a construction site. If any tools are taken outside of the designated area, the device will trigger an alert, reducing the risk of theft or misplaced equipment.
+
+8. Preventing Lost Luggage: Attach beacons to luggage during travel. If the luggage moves beyond a certain distance from the traveler, the device will notify them, helping to prevent lost or misplaced luggage.
+
+9. Vehicle Security: Place a beacon in a car or motorcycle. If the vehicle is moved without authorization, the device will send an alert to the owner's mobile phone, aiding in the recovery or prevention of theft.
+
+10. Asset Tracking: Attach beacons to valuable assets in a warehouse or storage facility. If any assets are moved or taken outside of the designated area, the device will generate an alert, ensuring better inventory management and security.
+
+These are just a few examples of the potential problem-solving applications for the device you described. The versatility of the beacon technology allows for a wide range of uses in various scenarios.
+
+
+
+
+The project has several unique features:
+
+1. Cost-Effective Solution: Unlike many other tracking devices, this project does not rely on mobile internet data, resulting in cost savings for users.
+
+2. Dual Functionality: In addition to preventing separation and loss, the device can also act as a tracker. It notifies the owner when they are in close proximity to a lost device by varying the intensity of the buzzer and vibration based on the nearness.
+
+3. Versatile Attachment Options: The device is designed to be easily attachable and detachable. It can be secured to various items such as wristwatches, belts, keys, phones, and more, providing flexibility and convenience for users.
+
+4. Scalability and Continuous Improvement: The project has a scalable nature, allowing for future enhancements and improvements. This ensures that the device can evolve and adapt to meet changing needs and technological advancements over time.
+
+By emphasizing these unique aspects, the project distinguishes itself from other solutions in terms of cost-efficiency, functionality, versatility, and the potential for ongoing development.

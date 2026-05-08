@@ -1,0 +1,33 @@
+Wi-Stick
+
+Health
+
+
+Our solution, the Wi-Stick, is a beacon-based device designed to prevent the loss and separation of personal belongings while also addressing specific health concerns. It offers a unique approach to safeguarding valuable items and serves as a versatile tracker, notifying users when they are near a lost item. 
+
+With a focus on loss prevention and item tracking, the Wi-Stick utilizes Wi-Fi communication and beacon technology to establish a wireless connection between the device and a paired smartphone or other beacons. It operates without requiring mobile internet data, ensuring cost savings for users. 
+
+One of the critical applications of the Wi-Stick is in the context of asthma inhalers. Shockingly, in the United States alone, approximately 10% of asthma-related deaths, accounting for about 164 lives annually, are attributed to asthma attacks that occur when the person's inhaler is not available. Our solution directly addresses this issue by providing a means to ensure inhaler availability. By attaching the Wi-Stick to the inhaler, users receive notifications and alerts when they are about to move beyond a specific distance from their inhaler, effectively reducing the risk of asthma attacks due to unavailability.
+
+The Wi-Stick not only helps prevent the loss of valuables but also has the potential to save lives by promoting the accessibility of crucial health-related items like inhalers. Its cost-effectiveness, dual functionality as a tracker, and versatile attachment options make it a reliable and efficient solution for individuals seeking peace of mind and enhanced safety in their daily lives.
+
+
+Apple AirTag, Tile
+
+
+1. No Pairing or Device Connection Needed: Unlike many other tracking devices, the Wi-Stick does not require any pairing of devices or complex device connections which allows users to connect to other device they desires to. It operates seamlessly without the need for manual setup or configuration. Users can simply attach the Wi-Stick to their belongings, and it's ready to use immediately, providing a hassle-free experience.
+
+2. Beacon-to-Beacon Functionality: The Wi-Stick goes beyond traditional beacon-to-phone communication. It offers beacon-to-beacon communication, allowing multiple Wi-Sticks to interact with each other. This network of beacons creates a broader coverage area, enhancing the reliability and effectiveness of the device.
+
+3. Cost-Effective Solution: The Wi-Stick operates without relying on mobile internet data, resulting in cost savings for users. They do not need to have a separate data plan for the device, making it a cost-effective solution for loss prevention and item tracking.
+
+4. Dual Functionality: The Wi-Stick serves a dual purpose by preventing separation and loss of belongings while also acting as a tracker. It notifies users when they are near a lost item through varying buzzer intensity and vibration, ensuring their belongings are easily retrieved.
+
+5. Versatile Attachment Options: Designed for convenience, the Wi-Stick offers versatile attachment options. Users can easily attach and detach it from various items such as wristwatches, belts, keys, phones, and more, providing flexibility in securing the device to different belongings.
+
+6. Health-Focused Features: With a focus on health-related scenarios, the Wi-Stick addresses specific concerns like ensuring inhaler availability. By attaching the Wi-Stick to an inhaler, users receive alerts when they are about to move beyond a specific distance from their inhaler, helping prevent asthma attacks due to unavailability.
+
+
+
+
+Health-conscious Individuals, Everyday users who want to safeguard their personal belongings, Parents and Caregivers, Travelers and Commuters, Professionals and Students, Businesses and Organizations, Hospitality and Event Management
