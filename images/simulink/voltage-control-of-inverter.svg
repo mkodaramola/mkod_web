@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Inverter Voltage Control Thumbnail</title>
+  <desc id="desc">Stylized thumbnail representing an inverter voltage control model with switching bridges, voltage plots, and control loops.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1f35"/>
+      <stop offset="58%" stop-color="#2c3f74"/>
+      <stop offset="100%" stop-color="#8b5b3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="72" y="78" width="1056" height="644" rx="34" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+  <rect x="120" y="190" width="240" height="170" rx="26" fill="#f5efe2"/>
+  <rect x="120" y="410" width="240" height="150" rx="26" fill="#f5efe2"/>
+  <rect x="430" y="165" width="350" height="400" rx="26" fill="#f5efe2"/>
+  <rect x="846" y="220" width="220" height="120" rx="24" fill="#f5efe2"/>
+  <rect x="846" y="390" width="220" height="120" rx="24" fill="#f5efe2"/>
+  <path d="M170 273c31-27 62 27 93 0s62-27 93 0" fill="none" stroke="#244b5a" stroke-width="11" stroke-linecap="round"/>
+  <path d="M159 485h55l18-30 25 60 25-60 18 30h56" fill="none" stroke="#8d6e3e" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 276h70" stroke="#f6d365" stroke-width="10" stroke-linecap="round"/>
+  <path d="M780 365h66" stroke="#f6d365" stroke-width="10" stroke-linecap="round"/>
+  <path d="M520 235v250M690 235v250" stroke="#244b5a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M486 258l34 34M520 258l-34 34M486 428l34-34M520 428l-34-34" stroke="#2a7b79" stroke-width="10" stroke-linecap="round"/>
+  <path d="M656 258l34 34M690 258l-34 34M656 428l34-34M690 428l-34-34" stroke="#2a7b79" stroke-width="10" stroke-linecap="round"/>
+  <path d="M520 325h170" stroke="#8d6e3e" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="605" cy="325" r="18" fill="#8d6e3e"/>
+  <rect x="870" y="245" width="172" height="30" rx="15" fill="#244b5a"/>
+  <rect x="870" y="278" width="128" height="18" rx="9" fill="#2a7b79"/>
+  <path d="M870 450c29-27 58 27 87 0s58-27 87 0" fill="none" stroke="#244b5a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M870 480c29-27 58 27 87 0s58-27 87 0" fill="none" stroke="#2a7b79" stroke-width="10" stroke-linecap="round"/>
+  <text x="120" y="126" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" letter-spacing="6">SIMULINK THUMBNAIL</text>
+  <text x="120" y="690" fill="#ffffff" font-family="Georgia, Times New Roman, serif" font-size="54">Inverter Voltage Control</text>
+  <text x="120" y="735" fill="#f2e7dc" font-family="Segoe UI, Arial, sans-serif" font-size="24">Switching bridge, regulated output, closed-loop converter behavior</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Three-Phase BLDC Drive Model Thumbnail</title>
+  <desc id="desc">Stylized thumbnail representing a BLDC motor control Simulink model with three-phase waveforms and control blocks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1f3d"/>
+      <stop offset="55%" stop-color="#183f6b"/>
+      <stop offset="100%" stop-color="#2a7b79"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f3e7"/>
+      <stop offset="100%" stop-color="#e8dfcf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1030" cy="120" r="140" fill="#ffffff" fill-opacity=".06"/>
+  <circle cx="160" cy="700" r="190" fill="#ffffff" fill-opacity=".05"/>
+  <rect x="68" y="70" width="1064" height="660" rx="34" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="120" y="150" width="230" height="150" rx="24" fill="url(#panel)"/>
+  <rect x="120" y="340" width="230" height="150" rx="24" fill="url(#panel)"/>
+  <rect x="120" y="530" width="230" height="110" rx="24" fill="url(#panel)"/>
+  <rect x="430" y="245" width="300" height="240" rx="28" fill="#f5efe2"/>
+  <rect x="820" y="220" width="220" height="290" rx="110" fill="#f5efe2"/>
+  <circle cx="930" cy="365" r="72" fill="none" stroke="#2d6f73" stroke-width="18"/>
+  <circle cx="930" cy="365" r="20" fill="#2d6f73"/>
+  <path d="M181 213c37-34 74 34 111 0s74-34 111 0" fill="none" stroke="#244b5a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M181 402c37-34 74 34 111 0s74-34 111 0" fill="none" stroke="#8d6e3e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M170 573h140l24-24 24 48 24-48 24 48 24-24h120" fill="none" stroke="#244b5a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M350 224h80" stroke="#f6d365" stroke-width="10" stroke-linecap="round"/>
+  <path d="M350 414h80" stroke="#f6d365" stroke-width="10" stroke-linecap="round"/>
+  <path d="M350 584h80" stroke="#f6d365" stroke-width="10" stroke-linecap="round"/>
+  <path d="M730 365h90" stroke="#f6d365" stroke-width="12" stroke-linecap="round"/>
+  <path d="M740 285h58v160h-58" fill="none" stroke="#244b5a" stroke-width="12" stroke-linejoin="round"/>
+  <rect x="470" y="285" width="84" height="70" rx="16" fill="#2a7b79"/>
+  <rect x="604" y="285" width="84" height="70" rx="16" fill="#244b5a"/>
+  <rect x="470" y="380" width="84" height="70" rx="16" fill="#8d6e3e"/>
+  <rect x="604" y="380" width="84" height="70" rx="16" fill="#2a7b79"/>
+  <text x="120" y="110" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" letter-spacing="6">SIMULINK THUMBNAIL</text>
+  <text x="120" y="690" fill="#ffffff" font-family="Georgia, Times New Roman, serif" font-size="54">Three-Phase BLDC Drive Model</text>
+  <text x="120" y="735" fill="#d8e6ef" font-family="Segoe UI, Arial, sans-serif" font-size="24">Motor control, commutation logic, rectified three-phase response</text>
+</svg>
