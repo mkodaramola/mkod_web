@@ -4504,6 +4504,10 @@ td:last-child {
     background: linear-gradient(135deg, #14213d 0%, #214d7f 50%, #6a8f56 100%);
 }
 
+.archive-callout--projects {
+    background: linear-gradient(135deg, #1b1f3a 0%, #7a3e2b 52%, #c58b4b 100%);
+}
+
 .psc-page {
     background: linear-gradient(180deg, #f4efe6 0%, #f7f4ec 35%, #ffffff 100%);
 }
