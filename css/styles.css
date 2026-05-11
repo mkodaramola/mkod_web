@@ -3946,6 +3946,8 @@ td:last-child {
 .s-works {
     padding-top   : var(--vspace-6);
     padding-bottom: var(--vspace-1);
+    content-visibility   : auto;
+    contain-intrinsic-size: 260rem;
 }
 
 .folio-entries {
@@ -4287,6 +4289,8 @@ td:last-child {
     padding-top   : var(--vspace-3);
     padding-bottom: var(--vspace-2_5);
     background    : linear-gradient(180deg, #f4efe7 0%, #fbfaf6 52%, #ffffff 100%);
+    content-visibility   : auto;
+    contain-intrinsic-size: 120rem;
 }
 
 .journey-intro {
@@ -4990,6 +4994,8 @@ td:last-child {
 .s-testimonials {
     padding-top   : var(--vspace-4_5);
     padding-bottom: var(--vspace-4);
+    content-visibility   : auto;
+    contain-intrinsic-size: 90rem;
 }
 
 .s-testimonials__header {
